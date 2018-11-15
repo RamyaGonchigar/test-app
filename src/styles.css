@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+.bodyRightSide {
+    box-sizing: border-box;
+    padding: 10px;
+    vertical-align: top;
+    /*float: left; commented by ramya */
+    /*overflow: auto;*/
+    height: 100%;
+    width: calc(100% - 200px);
+    background: #fff;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    /*padding-left: 25px;*/
+}

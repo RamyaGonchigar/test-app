@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { HeaderComponent } from './header/header.component';
+import { LeftSideMenuComponent } from './left-side-menu/left-side-menu.component'
 
 @Component({
   selector: 'app-root',
